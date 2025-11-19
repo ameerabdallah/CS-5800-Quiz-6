@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Observer {
+public interface Observer {
+    void update(String symbol, double price);
 }

@@ -1,0 +1,37 @@
+= Class Reference
+:toc:
+
+PDF generated using Asciidoctor PDF
+
+== Code
+
+=== Observer.java
+
+[source,java]
+----
+include::src/main/java/Observer.java[]
+----
+
+=== ObserverImpl.java
+
+[source,java]
+----
+include::src/main/java/ObserverImpl.java[]
+----
+
+=== Stock.java
+
+[source,java]
+----
+include::src/main/java/Stock.java[]
+----
+
+=== Driver.java
+
+[source,java]
+----
+include::src/main/java/Driver.java[]
+----
+
+=== Output
+image::img.png[]
